@@ -1,0 +1,5 @@
+/.idea
+/Chapter02/one-server/terraform.tfstate
+/Chapter02/one-server/terraform.tfstate.backup
+/Chapter02/one-server/.terraform/plugins/darwin_amd64/terraform-provider-aws_v1.6.0_x4
+/Chapter02/one-server/.terraform/plugins/darwin_amd64/lock.json
